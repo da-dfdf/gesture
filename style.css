@@ -1,0 +1,30 @@
+.heading{
+    font-size: 30px;
+    width:100%;
+    margin:0;
+    box-shadow:5px 5px 5px grey;
+}
+
+.span_info{
+    font-size:20px;
+    color:rgb(0, 7, 5);
+
+}
+
+.copy_right_footer{
+    position:fixed;
+    font-size:25px;
+    color:black;
+    bottom:0;
+    width:100%;
+    background-color:orange;
+    line-height:2;
+    text-align:center; 
+    
+}
+canvas{
+    border:5px solid orangered;
+    border-radius:20px;
+    box-shadow:5px 7px 7px grey;
+    
+}
